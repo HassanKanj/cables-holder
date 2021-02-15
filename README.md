@@ -1,4 +1,4 @@
-# Headphone holder (3D files)
+# Cables holder (3D files)
 
 Here’s a custom cables holder I designed that you can attach to your desk.
 
